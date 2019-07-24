@@ -1,0 +1,21 @@
+{
+  "name": "@jayantwaldia/weather",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "main": "bundles/jayantwaldia-weather.umd.js",
+  "module": "fesm5/jayantwaldia-weather.js",
+  "es2015": "fesm2015/jayantwaldia-weather.js",
+  "esm5": "esm5/jayantwaldia-weather.js",
+  "esm2015": "esm2015/jayantwaldia-weather.js",
+  "fesm5": "fesm5/jayantwaldia-weather.js",
+  "fesm2015": "fesm2015/jayantwaldia-weather.js",
+  "typings": "jayantwaldia-weather.d.ts",
+  "metadata": "jayantwaldia-weather.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
